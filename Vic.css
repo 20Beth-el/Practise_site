@@ -1,0 +1,35 @@
+.pink {
+    background: linear-gradient(rgb(255, 0, 0, 0.76),rgb(0, 0, 255, 0.76)), url('./Earth.jpg');
+    height: 70vh;
+    color: white;
+    background-position-x: left;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 5px;
+}
+
+.img {
+    width: 35%;
+    border: 10px solid white;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.di {
+    background-color: black;
+}
+.a {
+    /* background-color: white; */
+    color: white;
+}
+.yoga {
+    background-color: blue;
+    color: white;
+    font-size: 2rem;
+    h2 {
+        color: black;
+    }
+}
